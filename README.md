@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Amit Singh
-**A passionate Cloud Engineer || DevOps Engineer || Amit singh from India**
+**A passionate Developer || DevOps & Web3 || Amit singh from India**
 
 Email Me 👉 ✉️ **amit.singh.ug23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
