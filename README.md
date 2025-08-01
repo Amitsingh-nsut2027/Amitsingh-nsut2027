@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **amit.singh.ug23@gmail.com** For Collaboration/Project or 
 
 - 🌱 **I’m currently learning:** React.js
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 😄 **Pronouns:** Bhati
+
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
