@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 3rd-year B.Tech CSE student at **NSUT, Delhi** (Batch 2027)
-- 🔨 Building projects in **full-stack web development** and **machine learning**
+- 🔨 Building projects in **Aspiring ML Engineer · AI/ML Learner · DSA · Python**
 - 🧠 Sharpening **DSA** daily — solving hard problems in graphs, DP & bit manipulation
 - 🌱 Currently learning: **React.js · Node.js · ML fundamentals**
 - 🎯 Goal: Land a strong SDE internship/placement by 2026
