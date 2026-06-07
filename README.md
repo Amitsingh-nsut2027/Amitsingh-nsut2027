@@ -65,13 +65,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitsingh-nsut2027&theme=dark&hide_border=true&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Amitsingh-nsut2027&theme=dark&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsingh-nsut2027&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Amitsingh-nsut2027&theme=dark&hide_border=true" /><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amitsingh-nsut2027&theme=github_dark" /><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amitsingh-nsut2027&theme=github_dark" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to internships, collaborations, and interesting problems. Let's connect!</i>
+  <a href="https://github.com/Amitsingh-nsut2027">
+    <img src="https://img.shields.io/github/followers/Amitsingh-nsut2027?label=Followers&style=for-the-badge&color=0077B5" />
+  </a>
 </p>
